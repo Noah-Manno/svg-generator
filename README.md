@@ -1,18 +1,54 @@
 # svg-generator
-A console-line web application which generates simple svg logo files. 
+
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## Description
+
+A console-line application which creates a simple logo.svg file based on user input. 
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+npm i
+
+## Usage
+
+This repo utilizes Node in order to create the logo. You must install node and then begin the inquirer prompts by running, node index.js
+
+## Credits
+
+Noah Manno
+
+## Contributing
+
+N/A
+
+## License
+
+[MIT License](https://opensource.org/license/MIT)
+
+---
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+## Tests
+
+npm run test
 
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for text
-THEN I can enter up to three characters
-WHEN I am prompted for the text color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I am prompted for a shape
-THEN I am presented with a list of shapes to choose from: circle, triangle, and square
-WHEN I am prompted for the shape's color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I have entered input for all the prompts
-THEN an SVG file is created named `logo.svg`
-AND the output text "Generated logo.svg" is printed in the command line
-WHEN I open the `logo.svg` file in a browser
-THEN I am shown a 300x200 pixel image that matches the criteria I entered
+## Questions 
+
+Noah Manno: https://github.com/Noah-Manno. Please feel free to reach out to me with any questions at noahmanno19@gmail.com.
+
+## Deployment
+
+Repository: https://github.com/Noah-Manno/svg-generator
+Demo Video: 
