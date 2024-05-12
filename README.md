@@ -51,4 +51,4 @@ Noah Manno: https://github.com/Noah-Manno. Please feel free to reach out to me w
 ## Deployment
 
 Repository: https://github.com/Noah-Manno/svg-generator
-Demo Video: 
+Demo Video: https://drive.google.com/file/d/1Z1qzk5i2Gt6H-711IJdwY-8dGiglR-DL/view
